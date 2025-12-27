@@ -1,4 +1,3 @@
-# ai-executive-prompt-playbook
 
 # AI Executive Prompt Playbook
 
@@ -27,6 +26,11 @@ Human input → Structured prompt → AI reasoning → Executive-ready output
 - SWOT analysis
 - Risk registers
 - Strategic options analysis
+
+  ## Business Impact
+- Reduced analysis time
+- Increased decision clarity
+- Consistent strategic framing
 
 ## Next Steps
 Integrate prompts into workflow automation and AI assistants.
